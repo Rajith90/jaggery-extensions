@@ -25,7 +25,7 @@
 
     <groupId>org.jaggeryjs.modules</groupId>
     <artifactId>jaggery-modules</artifactId>
-    <version>1.5.3-SNAPSHOT</version>
+    <version>1.5.4-SNAPSHOT</version>
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <name>Jaggery Modules</name>
@@ -68,10 +68,10 @@
 
         <commons.lang.version>2.6</commons.lang.version>
 
-        <carbon.kernel.version>4.4.6</carbon.kernel.version>
+        <carbon.kernel.version>4.4.7</carbon.kernel.version>
         <carbon.kernel.imp.pkg.version>[4.4.0, 5.0.0)</carbon.kernel.imp.pkg.version>
 
-        <jaggery.version>0.12.6-SNAPSHOT</jaggery.version>
+        <jaggery.version>0.12.6</jaggery.version>
         <jaggery.imp.pkg.version>[0.10.0, 1.0.0)</jaggery.imp.pkg.version>
 
         <carbon.commons.version>4.3.2</carbon.commons.version>
@@ -98,14 +98,14 @@
         <wss4j.osgi.version>1.5.11.wso2v11</wss4j.osgi.version>
 
         <!-- jaggery modules -->
-        <ws.module.version>1.5.3-SNAPSHOT</ws.module.version>
-        <email.module.version>1.5.3-SNAPSHOT</email.module.version>
-        <process.module.version>1.5.3-SNAPSHOT</process.module.version>
-        <sso.module.version>1.5.3-SNAPSHOT</sso.module.version>
-        <uuid.module.version>1.5.3-SNAPSHOT</uuid.module.version>
-        <oauth.module.version>1.5.3-SNAPSHOT</oauth.module.version>
-        <handlebars.version>1.5.3-SNAPSHOT</handlebars.version>
-        <markdown.version>1.5.3-SNAPSHOT</markdown.version>
+        <ws.module.version>1.5.4-SNAPSHOT</ws.module.version>
+        <email.module.version>1.5.4-SNAPSHOT</email.module.version>
+        <process.module.version>1.5.4-SNAPSHOT</process.module.version>
+        <sso.module.version>1.5.4-SNAPSHOT</sso.module.version>
+        <uuid.module.version>1.5.4-SNAPSHOT</uuid.module.version>
+        <oauth.module.version>1.5.4-SNAPSHOT</oauth.module.version>
+        <handlebars.version>1.5.4-SNAPSHOT</handlebars.version>
+        <markdown.version>1.5.4-SNAPSHOT</markdown.version>
     </properties>
 
     <build>
